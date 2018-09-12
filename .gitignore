@@ -2,4 +2,6 @@
 /.vscode/
 /backup.log
 /*.cdmp
+/config.txt
+*.pyc
 /*.log
